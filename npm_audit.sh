@@ -1,2 +1,2 @@
 #!/bin/bash
-npm audit --json >> /results/npm_audit.json || true
+npm audit --json > /results/npm_audit.json || true

@@ -2,8 +2,6 @@
 
 Robot Framework Library for NPM Audit Source Composition Analysis
 
-**Supports Python 2.7.x for now**
-
 ### Install Instructions
 * You need docker to run this program
 * Pull the brakeman docker image: `docker pull abhaybhargav/npmaudit`

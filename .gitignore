@@ -1,3 +1,10 @@
 
 *.gz
 robonpmaudit/RoboNpmAudit.egg-info/*
+Cut-The-Funds-NodeJS
+venv
+output.xml
+*.pyc
+npm_audit.json
+log.html
+report.html
